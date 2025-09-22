@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Full-Stack Projects**<br>- 🌱 I’m currently learning **Machine Learning**<br>- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br>- 👯 I’m looking to collaborate on **Web Development Project Idea's**<br>- 👁‍🗨 What's Special about me? <br> <br>- Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.<br>- 📫 How to reach me **bhanurjb21@gmail.com**<br><br>- ⚡ Fun fact **I think I am Handsome(True)**
+- 🔭 I’m currently working on **Full-Stack Projects**<br>- 🌱 I’m currently learning **Machine Learning**<br>- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br>- 👯 I’m looking to collaborate on **Web Development Project Idea's**<br>- 👁‍🗨 What's Special about me? <br>- Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.<br>- 📫 How to reach me **bhanurjb21@gmail.com**<br><br>- ⚡ Fun fact **I think I am Handsome(True)**
 
 
 ## 🌐 Socials:
