@@ -78,18 +78,19 @@ int main() {
 <img src="https://github-readme-stats.vercel.app/api?username=bhanurjb07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="400"/>
 </td>
 <td align="center" style="border: none;">
-<img src="https://streak-stats.demolab.com/?user=Sparsh2105&theme=radical&hide_border=true" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=bhanurjb07&theme=radical&hide_border=true" width="400"/>
 </td>
 </tr>
+
 <tr>
 <td align="center" colspan="2" style="border: none;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanurjb07&theme=radical&hide_border=true&layout=compact&custom_title=⚡%20Runtime%20Languages" width="400"/>
 </td>
 </tr>
+
 </table>
 
 </div>
-
 
 ---
 
