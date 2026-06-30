@@ -29,12 +29,12 @@ private:
     
 public:
     vector<string> currently_building = {
-        "NeedNavigator AI", 
-        "Digital Twin AI"
+        "Flipper", 
+        "Next Learn"
     };
     
     vector<string> daily_grind = {
-        "Data Structures🏆", 
+        "Competitive programming🏆", 
         "Generative AI and Machine Learning",
         "Full-Stack Web Dev (MERN) 🌐"
     };
