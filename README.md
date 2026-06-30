@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/bhanurjb07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=sparsh@fedora-hyprland+~+%25+./run_profile.sh;%E2%9A%A1+Initializing+Full-Stack+Developer...;%E2%9A%A1+Loading+Machine+Learning+Models...;%E2%9A%A1+Compiling+Advanced+DSA+Logic...;%E2%9A%A1+System+Ready.+Welcome,+Sparsh.+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=bhanu@fedora-hyprland+~+%25+./run_profile.sh;%E2%9A%A1+Initializing+Full-Stack+Developer...;%E2%9A%A1+Loading+Machine+Learning+Models...;%E2%9A%A1+Compiling+Advanced+DSA+Logic...;%E2%9A%A1+System+Ready.+Welcome,+bhanu.+%F0%9F%9A%80" />
 </a>
 
 <p align="center">
@@ -12,10 +12,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhanurjb07&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
 
-</div>
 ---
+
 ## 👨‍💻 Source Code: `about_me.cpp`
 
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
