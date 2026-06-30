@@ -1,5 +1,21 @@
-<div align="center"> <a href="https://github.com/bhanurjb07"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=bhanu@dev+~+%25+./run_profile.sh;%E2%9A%A1+Initializing+Full-Stack+Developer...;%E2%9A%A1+Loading+Machine+Learning+Modules...;%E2%9A%A1+Compiling+React+%2B+Node.js+Stack...;%E2%9A%A1+Contributing+to+GSSoC+2024...;%E2%9A%A1+System+Ready.+Welcome%2C+Bhanu.+%F0%9F%9A%80" /> </a> <p align="center"> <a href="mailto:bhanurjb21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/bhanurjb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/bhanurjb07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </p> <img src="https://komarev.com/ghpvc/?username=bhanurjb07&label=PROFILE%20VIEWS&color=00bfff&style=for-the-badge" /> </div> --- ## 👨‍💻 Source Code: about_me.cpp
-cpp
+<div align="center">
+
+<a href="https://github.com/bhanurjb07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=sparsh@fedora-hyprland+~+%25+./run_profile.sh;%E2%9A%A1+Initializing+Full-Stack+Developer...;%E2%9A%A1+Loading+Machine+Learning+Models...;%E2%9A%A1+Compiling+Advanced+DSA+Logic...;%E2%9A%A1+System+Ready.+Welcome,+Sparsh.+%F0%9F%9A%80" />
+</a>
+
+<p align="center">
+  <a href="mailto:bhanurjb21@gmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/bhanurjb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/bhanurjb07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=bhanurjb07&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
+
+</div>
+---
+## 👨‍💻 Source Code: `about_me.cpp`
+
 #include <iostream>
 #include <vector>
 #include <string>
