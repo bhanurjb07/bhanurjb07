@@ -29,8 +29,8 @@ private:
     
 public:
     vector<string> currently_building = {
-        "Flipper", 
-        "Next Learn"
+        "RAG based AI Agents and AI Appliactions",
+        "SystemIQ: An AI platform for corporates"
     };
     
     vector<string> daily_grind = {
