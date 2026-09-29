@@ -30,7 +30,7 @@ private:
 public:
     vector<string> currently_building = {
         "RAG based AI Agents and AI Appliactions",
-        "SystemIQ: An AI platform for corporates"
+        "Resolve-AI: An issue resolving tool for startups"
     };
     
     vector<string> daily_grind = {
